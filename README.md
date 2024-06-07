@@ -13,7 +13,7 @@
 <br />
 
 ### 기술스택
-> Front : Html/Css, Java-cript
+> Front : Html/Css, Java-cript  <br />
 > Back : Node.js, express.js
 
 ### [프론트](https://github.com/ggody2/community_FE.git)
