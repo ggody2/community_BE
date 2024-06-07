@@ -12,6 +12,10 @@
 > 여러 사용자가 사용가능한 커뮤니티를 만들고 게시글 관리와 실시간 채팅을 구현하기 위함.
 <br />
 
+### 기술스택
+> Front : Html/Css, Java-cript
+> Back : Node.js, express.js
+
 ### [프론트](https://github.com/ggody2/community_FE.git)
 
 <br />
